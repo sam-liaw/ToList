@@ -9,6 +9,8 @@
     <Description>My container to list</Description>
     <Company>My Company</Company>
     <Authors>Sam</Authors>
+    <PackageProjectUrl>https://github.com/sam-liaw/ToList</PackageProjectUrl>
+    <PackageTags>C#, .Net Standard</PackageTags>
   </PropertyGroup>
 
 </Project>
