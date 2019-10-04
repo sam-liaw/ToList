@@ -2,6 +2,13 @@
 
   <PropertyGroup>
     <TargetFramework>netstandard2.0</TargetFramework>
+    <LangVersion>7.1</LangVersion>
+    <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+    <PackageIconUrl>https://chiisen.github.io/image/github.io/cat-icon.png</PackageIconUrl>
+    <Copyright>MIT License</Copyright>
+    <Description>My container to list</Description>
+    <Company>My Company</Company>
+    <Authors>Sam</Authors>
   </PropertyGroup>
 
 </Project>
